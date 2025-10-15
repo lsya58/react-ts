@@ -1,0 +1,29 @@
+{
+  "devDependencies": {
+    "typescript": "^5.9.2"
+  },
+  "name": "gh-ts-study",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ghbook-study/gh-ts-study.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ghbook-study/gh-ts-study/issues"
+  },
+  "homepage": "https://github.com/ghbook-study/gh-ts-study#readme",
+  "dependencies": {
+    "@types/react": "^19.1.16",
+    "@types/react-dom": "^19.1.9",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  }
+}
